@@ -1,7 +1,7 @@
 
 ![Logo](https://github.com/Mazencloud/iphone-landing-page/blob/main/images/logo.png?raw=true)
 
-# Tic Tac Toe Game
+# Iphone Landing Page
 
 In this project, I've created an creative iphone landing page.
 
